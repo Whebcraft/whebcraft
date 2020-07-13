@@ -1,7 +1,7 @@
-## Hi! I'm $WhēßCrāft (Erumebor Lucky) 😎💻📳🏆💎🌍
+## Hi! I'm $WhēßCrāft (Lucky Onagite) 😎💻📳🏆💎🌍
 
 ```
-$ A web & mobile App Developer from Lagos, Nigeria.
+$ A web & mobile App Developer from Nigeria.
 ```
 I build beautiful crafted websites and mobile apps @ <a href="https://www.creativecodez.com" target="_blank">Creativecodez</a>
 
